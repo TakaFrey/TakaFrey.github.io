@@ -6,3 +6,6 @@
 	path = content/wu
 	url = https://github.com/TakaFrey/CTFWriteups
 	branch = main
+[submodule "content/CTFWriteups"]
+	path = content/CTFWriteups
+	url = https://github.com/takafrey/CTFWriteups
