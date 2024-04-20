@@ -1,0 +1,8 @@
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = https://github.com/imfing/hextra.git
+	branch = main
+[submodule "content/wu"]
+	path = content/wu
+	url = https://github.com/TakaFrey/CTFWriteups
+	branch = main
